@@ -10,6 +10,6 @@ Elemento                              Sintaxis
 **Título  (H3)**                       `### Título` 
 **Lista Ordenada**                     `1. Paso uno` 
 **Lista desordenada**                  `* Elemento` 
-****Letra Negrita**                    `**Texto**` 
+**Letra Negrita**                      `**Texto**` 
 **Letra Cursiva**                      `*Texto*` 
 **Insertar Enlace**                    `[Nombre](URL)`
